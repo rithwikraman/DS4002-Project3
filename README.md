@@ -23,7 +23,7 @@
   * NeuralProphet
 * Scripts were run on the Google Colab Runtime Environment platform.
 
-## Map of Documentation
+## (TODO -- need to revamp) Map of Documentation
 ### DS4002-Project1
 * DATA
   * household_power_consumption_dataset.csv
@@ -41,7 +41,7 @@
 * LICENSE
 * README.md
 
-## Reproducing these Results
+## (TODO -- need to revamp) Reproducing these Results
 * Download the dataset from: https://github.com/rithwikraman/DS4002-Project2/blob/main/DATA/household_power_consumption_dataset.csv
 * Upload the dataset to your Google Colab Runtime Environment
 * Update .read_csv() to the location of your household_power_consumption_dataset.csv dataset
