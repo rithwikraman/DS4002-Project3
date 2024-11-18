@@ -8,7 +8,8 @@
 ## Description
 ### This repository contains our project's datasets, scripts, and generated visualizations. The project uses facial image data of individuals either with out without masks and uses image recognition models to detect if an indivdual is wearing a mask or not. 
 
-## Software and Platform
+
+## (TODO -- need to revamp) Software and Platform
 * Development was performed in a Python-based Jupyter notebook.
 * The following Python packages were imported:
   * Pandas
