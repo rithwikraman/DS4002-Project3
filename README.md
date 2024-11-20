@@ -32,6 +32,7 @@
   * Data Appendix.pdf
 * OUTPUT
   * Class Distribution Histogram.png
+  * Confusion Matrix.png
   * Image Width and Height Distributions.png
   * Metrics Results Table.png
   * Sample Dataset.png
@@ -41,5 +42,5 @@
 * README.md
 
 ## Reproducing these Results
-* Either upload the DS4002_Project3_Final.ipynb file to a Rivanna Cluster with GPU power (around 2-3 cores, 16 GB RAM, and 2 GPU's) or Google Colab's Runtime Environment.
-* Run the Jupyter Notebook (script file) and view the results (note that the image size histogram generation and neural net model training may take longer).
+* Either upload the DS4002_Project3_Final.ipynb file to a Rivanna Cluster with GPU power (around 2-3 cores, 16 GB RAM, and 2-3 GPUs) or Google Colab's Runtime Environment.
+* Run the entire Jupyter Notebook (script file) and view the results (note that the image size histogram generation and neural net model training may take longer).
