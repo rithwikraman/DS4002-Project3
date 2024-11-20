@@ -1,0 +1,3 @@
+We retrieved the dataset directly from HuggingFace in our scripts file. As the file is very large (containing images),
+we are not able to upload it directly. Here is the link to the HuggingFace dataset on face-mask detection:
+https://huggingface.co/datasets/DamarJati/Face-Mask-Detection.
