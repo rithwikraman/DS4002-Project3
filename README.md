@@ -33,6 +33,7 @@
 * OUTPUT
   * Class Distribution Histogram.png
   * Confusion Matrix.png
+  * Dataset Information.png
   * Image Width and Height Distributions.png
   * Metrics Results Table.png
   * Sample Dataset.png
