@@ -38,7 +38,7 @@
   * Metrics Results Table.png
   * Sample Dataset.png
 * SCRIPTS
-  * DS4002_Project3_Final.ipynb
+  * DS4002_Project3_Script.ipynb
 * LICENSE
 * README.md
 
